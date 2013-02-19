@@ -1,0 +1,14 @@
+<root>
+  <child1>
+    <foo>foo</foo>
+    <bar>bar</bar>
+  </child1>
+  <child2>
+    <baz>baz</baz>
+    <base64>aGVsbG8gd29ybGQK</base64>
+    <quux>quux</quux>
+  </child2>
+  <child3>
+    <another>one</another>
+  </child3>
+</root>
