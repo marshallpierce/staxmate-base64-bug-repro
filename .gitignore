@@ -1,0 +1,10 @@
+.DS_Store
+.sass-cache
+.idea
+*.iml
+*.ipr
+*.iws
+.directory
+./out
+target
+.~lock.*.od*#
